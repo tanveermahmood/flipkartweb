@@ -1,0 +1,2 @@
+homepage.lnk.menuname = {\"locator\":\"css=a[title='%s']\",\"desc\":\"menu home page locator\"}
+homepage.lnk.submenu = {\"locator\":\"xpath=//span[text()='%s']\",\"desc\":\"sub catogory\"}
